@@ -10,7 +10,7 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.persistence.*;
 
-
+//esto es una prueba
 @Entity
 @Table(name = "productos")
 public class Producto {
